@@ -11,7 +11,7 @@
 	Background Colour
 ------------------------*/
 section#cover {
-	background: url('../../img/bg.jpg');
+	background: url('../../img/bg.png');
 	background-size: cover;
 	background-position: center;
 }
