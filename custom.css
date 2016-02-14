@@ -6,4 +6,21 @@
  * Author:	Audain Designs
  * Type:	Style - General
  */
- 
+ .item-clickable a{
+
+ 	background: transparent;
+ }
+ .item-clickable a img {
+    border: none !important;
+}
+
+.testi-item{
+
+    width: 33%;
+    display: inline-block;
+    margin-right: 10px;
+
+}
+#testimonials{
+	background:none !important;
+}
